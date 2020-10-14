@@ -1,0 +1,22 @@
+{
+  "name": "restapis",
+  "version": "1.0.0",
+  "description": "this is an api for project",
+  "main": "assig6.js",
+  "scripts": {
+    "start": "node assig6.js",
+    "dev": "nodemon assig6.js"
+  },
+  "keywords": [
+    "node",
+    "repository"
+  ],
+  "author": "sanjeev",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2"
+  }
+}
